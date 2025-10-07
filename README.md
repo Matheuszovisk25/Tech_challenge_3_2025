@@ -16,11 +16,9 @@ Objetivos do projeto
   -  Criar uma Rest API em Python que faça a consulta no site da Embrapa.
   -  Sua API deve estar documentada.
   - É recomendável (não obrigatório) a escolha de um método deautenticação (JWT, por exemplo).
-  - Criar um plano para fazer o deploy da API, desenhando a arquiteturado projeto desde a ingestão até a alimentação do modelo (aqui não é necessário elaborar um modelo de ML, mas é preciso que vocês escolham um cenário interessante em que a API possa ser utilizada).
+  - Criar um plano para fazer o deploy da API, desenhando a arquiteturado projeto desde a ingestão até a alimentação do modelo.
   -  Fazer um MVP realizando o deploy com um link compartilhável e um repositório no github.
-  -  Criar um modelo preditivo que preveja 5 anos no futuro da produção total de vinhos no Brasil
-
-
+ 
 # 📡 API de Dados da Vitivinicultura Embrapa
 
 Este projeto tem como objetivo criar uma API pública RESTful, com autenticação via JWT, que extrai, trata e disponibiliza dados da vitivinicultura brasileira diretamente do site da Embrapa (Vitibrasil). A API alimenta um modelo de Machine Learning que estima a produção futura de vinhos no Brasil para os próximos 5 anos.
