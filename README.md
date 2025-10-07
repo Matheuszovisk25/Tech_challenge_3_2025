@@ -1,4 +1,4 @@
-# Tech Challenge FASE 03 - API: Vitivinicultura da Embrapa 
+<img width="1259" height="323" alt="image" src="https://github.com/user-attachments/assets/812e3dec-05cb-43b3-9e83-945c8c9126df" /># Tech Challenge FASE 03 - API: Vitivinicultura da Embrapa 
 FIAP - Curso Pós Tech - Machine Learning Engineering
 
 # 📂 Problema de negócio
@@ -74,7 +74,7 @@ TechChallengeAPI/
 │       │   ├── importacao.py
 │       │   ├── processamento.py
 │       │   ├── producao.py
-│       │   ├── sintese.py                # 🔹 Endpoint de previsões e síntese dos dados
+│       │   ├── sintese.py                
 │       │   └── user.py
 │       └── api.py
 │
@@ -113,8 +113,8 @@ TechChallengeAPI/
 │   └── user_schema.py
 │
 ├── create_tables.py
-├── create_views_previsoes.py      # 🔹 Gera views SQL e cálculos de previsão
-├── streamlit.py                   # 🔹 Interface interativa de visualização dos dados e previsões
+├── create_views_previsoes.py      
+├── streamlit.py                   
 ├── main.py
 ├── requirements.txt
 └── README.md
@@ -156,16 +156,18 @@ O projeto conta com um **frontend desenvolvido em Streamlit**, que permite:
 - Login autenticado com token JWT
 - Escolha da categoria (Produção, Importação, etc.)
 - Filtros por ano, produto ou país
+- Aba de previsões
 - Visualização por:
   - Tabela interativa
-  - Gráficos de barras, linhas, top 5 e comparações
+  - Gráficos de barras, linhas, top 5, pareto comparações
 - Exportação dos dados filtrados em CSV, Excel ou JSON
 
 ### Exemplo da interface:
 [API-streamlit](https://techchallenge1app-fuougvtcgqq7smytfmdygw.streamlit.app) 
 
 
-<img width="1659" alt="image" src="https://github.com/user-attachments/assets/bd4c9d30-c1be-48bf-a87a-97bab2d99475" />
+<img width="1659" alt="image" src="<img width="1259" height="323" alt="image" src="https://github.com/user-attachments/assets/05293b43-34fa-459a-9092-fec03b17bb26" />
+" />
 
 
 ## 📈 Análise Exploratória dos Dados (EDA)
