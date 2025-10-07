@@ -165,6 +165,8 @@ O projeto conta com um **frontend desenvolvido em Streamlit**, que permite:
 
 ### Exemplo da interface:
 <img width="965" height="312" alt="image" src="https://github.com/user-attachments/assets/8edf580a-901b-4ce8-9f18-7a243f5eb14a" />
+<img width="1237" height="253" alt="image" src="https://github.com/user-attachments/assets/171f270f-836a-467d-880c-350aa45a5fdf" />
+
 
 
 ## 📈 Análise Exploratória dos Dados (EDA)
