@@ -164,11 +164,7 @@ O projeto conta com um **frontend desenvolvido em Streamlit**, que permite:
 - Exportação dos dados filtrados em CSV, Excel ou JSON
 
 ### Exemplo da interface:
-[API-streamlit](https://techchallenge1app-fuougvtcgqq7smytfmdygw.streamlit.app) 
-
-
-<img width="1659" alt="image" src="<img width="1259" height="323" alt="image" src="https://github.com/user-attachments/assets/05293b43-34fa-459a-9092-fec03b17bb26" />
-" />
+<img width="965" height="312" alt="image" src="https://github.com/user-attachments/assets/8edf580a-901b-4ce8-9f18-7a243f5eb14a" />
 
 
 ## 📈 Análise Exploratória dos Dados (EDA)
