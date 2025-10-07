@@ -186,7 +186,7 @@ A EDA em sua essência tem como objetivos principais:
 No caso do nosso projeto, os insights gerados orientaram:
 - A escolha de filtros por **ano**, **produto** e **país**;
 - A separação das abas no dashboard;
-- A modelagem dos dados para futura análise preditiva e agrupamentos.
+- A modelagem dos dados para análise preditiva e agrupamentos.
 
 ### Exemplo de visualização da EDA:
 
