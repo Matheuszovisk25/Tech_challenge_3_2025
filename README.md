@@ -1,5 +1,6 @@
-<img width="1259" height="323" alt="image" src="https://github.com/user-attachments/assets/812e3dec-05cb-43b3-9e83-945c8c9126df" /># Tech Challenge FASE 03 - API: Vitivinicultura da Embrapa 
-FIAP - Curso Pós Tech - Machine Learning Engineering
+<img width="1259" height="323" alt="image" src="https://github.com/user-attachments/assets/812e3dec-05cb-43b3-9e83-945c8c9126df" />
+
+# Tech Challenge FASE 03 - API: Vitivinicultura da Embrapa 
 
 # 📂 Problema de negócio
 
