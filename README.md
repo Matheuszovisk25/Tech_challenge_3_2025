@@ -160,7 +160,7 @@ O projeto conta com um **frontend desenvolvido em Streamlit**, que permite:
 - Aba de previsões
 - Visualização por:
   - Tabela interativa
-  - Gráficos de barras, linhas, top 5, pareto comparações
+  - Gráficos de barras, linhas, top 5, pareto e comparações
 - Exportação dos dados filtrados em CSV, Excel ou JSON
 
 ### Exemplo da interface:
