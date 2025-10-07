@@ -12,14 +12,6 @@ Com base nas duas fases anteriores, você será responsável por criar um modelo
   - Você deve ter uma apresentação visual do storytelling do seu modelo (contando todas as etapas realizadas até a entrega final por meio de um vídeo explicativo). O vídeo pode ser entregue através de um link do YouTube junto com o link do seu repositório do github, por meio de um arquivo txt via upload na plataforma online.
   - Seu modelo deve ser produtivo (alimentar uma aplicação simples ou um dashboard).
     
-Objetivos do projeto
-
-  -  Criar uma Rest API em Python que faça a consulta no site da Embrapa.
-  -  Sua API deve estar documentada.
-  - É recomendável (não obrigatório) a escolha de um método deautenticação (JWT, por exemplo).
-  - Criar um plano para fazer o deploy da API, desenhando a arquiteturado projeto desde a ingestão até a alimentação do modelo.
-  -  Fazer um MVP realizando o deploy com um link compartilhável e um repositório no github.
- 
 # 📡 API de Dados da Vitivinicultura Embrapa
 
 Este projeto tem como objetivo criar uma API pública RESTful, com autenticação via JWT, que extrai, trata e disponibiliza dados da vitivinicultura brasileira diretamente do site da Embrapa (Vitibrasil). A API alimenta um modelo de Machine Learning que estima a produção futura de vinhos no Brasil para os próximos 5 anos.
