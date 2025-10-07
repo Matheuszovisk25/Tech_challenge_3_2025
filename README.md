@@ -165,6 +165,9 @@ O projeto conta com um **frontend desenvolvido em Streamlit**, que permite:
 
 ### Exemplo da interface:
 <img width="965" height="312" alt="image" src="https://github.com/user-attachments/assets/8edf580a-901b-4ce8-9f18-7a243f5eb14a" />
+
+---
+
 <img width="1237" height="253" alt="image" src="https://github.com/user-attachments/assets/171f270f-836a-467d-880c-350aa45a5fdf" />
 
 
@@ -189,13 +192,12 @@ No caso do nosso projeto, os insights gerados orientaram:
 ### Exemplo de visualização da EDA:
 
 
-<img width="1659" alt="image" src="https://github.com/user-attachments/assets/2323f501-aad5-41c7-808c-e8ee53504ff9" />
+<img width="931" height="270" alt="image" src="https://github.com/user-attachments/assets/c800d2cc-cea3-496c-a8c0-425cbbb988d6" />
+
 
 ---
 
-<img width="1659" alt="image" src="https://github.com/user-attachments/assets/aaa4a32b-558c-4ef5-8015-299b21227e25" />
-
-
+<img width="989" height="242" alt="image" src="https://github.com/user-attachments/assets/832a81c4-eb11-4668-b92b-75f8a9895726" />
 
 
 
