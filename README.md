@@ -106,7 +106,7 @@ TechChallengeAPI/
 │   └── user_schema.py
 │
 ├── create_tables.py
-├── create_views_previsoes.py      
+├── create_views.py      
 ├── streamlit.py                   
 ├── main.py
 ├── requirements.txt
