@@ -253,6 +253,13 @@ A API oferece múltiplos endpoints organizados por módulos, todos protegidos po
 | GET    | `/get_comercializacao_ano_min_max`| Ano mínimo e máximo disponível       |
 | GET    | `/get_comercializacao_by_ano`     | Comercialização agrupada por ano     |
 
+###  Previsao (`/api/v1/sintese`)
+| Método | Rota                              | Descrição                          |
+|--------|-----------------------------------|-------------------------------------|
+| GET    | `/previsao`                       | Lista os totais de todas as rotas |
+
+
+
 ---
 
 ## 🧪 Como testar a API
