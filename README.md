@@ -265,10 +265,13 @@ A API oferece múltiplos endpoints organizados por módulos, todos protegidos po
 ## 🧪 Como testar a API
 
 ### 📘 Swagger UI
-Acesse a [documentação interativa Swagger](https://techchallengeapi.onrender.com/docs) para testar cada rota diretamente no navegador.  
+Acesse a [documentação interativa Swagger](https://deploy-render-h1m1.onrender.com/docs) para testar cada rota diretamente no navegador.  
 Use o botão **"Authorize"** para inserir o token JWT.
 <img width="1137" alt="image" src="https://github.com/user-attachments/assets/3fd466c9-5591-4dc4-8a13-c90c553fb963" />
 
+
+### Streamlit
+Acesse o Streamlit (https://apptc3-gfxygu8cbcjxoatrmcewtn.streamlit.app/)
 
 ### 🧰 Exemplo de Login (via `curl`)
 ```bash
